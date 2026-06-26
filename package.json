@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-data-santaclara",
+  "version": "0.1.0",
+  "description": "Santa Clara County Open Data (data.sccgov.org) Socrata MCP.",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "data-santaclara"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-data-santaclara"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}

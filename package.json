@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-santaclara",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Santa Clara County Open Data (data.sccgov.org) Socrata MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "data-santaclara",
     "gatewaySlug": "data-santaclara",
-    "sourceHash": "v1-d1163138a0849ee40700868d64c538c8d8a15c11652cc2081f9430b55de045dc",
-    "sourceCommit": "0b3faaa4d85299a961dd86dea75a0f0e1dad280c"
+    "sourceHash": "v1-5692b0553a2223f3fdbc11b5bc73f43fc07fd46f41474b25de8039adeef720a4",
+    "sourceCommit": "5ce1a05186d46479e23865c66bdb8579d8de445e"
   }
 }
